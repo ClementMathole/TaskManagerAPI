@@ -25,8 +25,8 @@ A simple Task Management API designed to manage tasks efficiently. It provides e
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ClementMathole/CloudBased_TaskManagementAPI.git
-   cd CloudBased_TaskManagementAPI
+   git clone https://github.com/ClementMathole/TaskManagerAPI.git
+   cd TaskManagerAPI
    ```
 
 2. **Restore dependencies:**
