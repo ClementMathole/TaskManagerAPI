@@ -1,14 +1,12 @@
-# CloudBased Task Management API
+# Task Management API
 
 ## Overview
-The CloudBased Task Management API is a RESTful service designed to manage tasks efficiently. It provides endpoints to create, read, update, and delete tasks, along with user authentication and authorization.
+A simple Task Management API designed to manage tasks efficiently. It provides endpoints to create, read, update, and delete tasks, along with user authentication and authorization.
 
 ## Features
 - User Registration and Authentication
 - Create, Read, Update, and Delete Tasks
-- Task Assignment to Users
 - Task Status Tracking
-- Due Date Management
 - Priority Levels
 
 ## Technologies Used
@@ -60,4 +58,4 @@ The CloudBased Task Management API is a RESTful service designed to manage tasks
 - **DELETE /tasks/{id}:** Delete a specific task
 
 ## Contact
-For any questions, please contact (clementmathole003@gmail.com).
+For any questions, please contact clementmathole003@gmail.com
