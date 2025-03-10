@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x68mSc1hYZEgXK/klGDoBoXrJLdgMMvAj7OwObZhOAs=",
+  "Source": "CloudBased_TaskManagementAPI",
+  "BasePath": "_content/CloudBased_TaskManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

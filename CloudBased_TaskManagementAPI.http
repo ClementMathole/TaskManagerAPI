@@ -1,0 +1,5 @@
+@CloudBased_TaskManagementAPI_HostAddress = http://localhost:5094
+
+###
+GET {{CloudBased_TaskManagementAPI_HostAddress}}/tasks/
+Accept: application/json
