@@ -12,14 +12,14 @@ namespace CloudBased_TaskManagementAPI.Controllers
 
         public AuthController(AuthService authService)
         {
-         //Name      : AuthController
+         // Name      : AuthController(AuthService authService)
          // Purpose   : Constructor to initialize the authentication service via dependency injection.
          // Re-use    : Used during the instantiation of the controller.
          // Input     : AuthService authService
          //            - authentication service instance.
          // Output    : Sets the private variable _authService.
             _authService = authService;
-        } // end Constractor
+        } // end constructor
 
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegisterRequest request)
